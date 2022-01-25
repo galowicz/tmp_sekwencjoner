@@ -42,3 +42,7 @@ Diody led świecą w następujący sposób:
      przy starcie - trwa inicjalizacja
      w trakcie odgrywania pętli - rozpoczęcie odgrywania od początku pętli
 -  zielona - odgrywanie dzwięku
+
+Program obsługuje przypisanie do 12 sampli do pamięci w formacie Wav, dzwięk mono, 8-bit PCM
+
+
