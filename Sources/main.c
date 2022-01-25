@@ -300,7 +300,7 @@ void Button_pressed(uint8_t button) {
 			PTB->PSOR = (1 << 10);
 		} else {
 			recording = 1;
-//			loop_max_pointer=LOOP_COUNT;
+			loop_max_pointer=LOOP_COUNT;
 			loop_pointer = 0;
 			PTB->PCOR = (1 << 10);
 		}
