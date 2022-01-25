@@ -12,6 +12,7 @@ wykorzystane zasoby:
   macierz klawiszy 4x4
   głośnik
   pamięć SPI NOR FLASH EN25F80
+
 Sposób połączenia:
   klawisze:
     C1 - PTB1
@@ -22,8 +23,10 @@ Sposób połączenia:
     R2 - PTA9
     R3 - PTA10
     R4 - PTA11
+    
   głośnik 
     Audio_in - PTB7
+    
   Pamięć:
     /CS - PTA5
     DO - PTA6
