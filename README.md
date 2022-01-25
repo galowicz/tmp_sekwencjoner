@@ -2,14 +2,13 @@
 
 Projekt z przedmiotu Technika Mikroprocesorowa 2
 
-Temat Projektu:
-  Sekwencjoner
+Temat Projektu:   Sekwencjoner
   
 Projekt wykonali:
-  Chohura Monika
-  Gałowicz Krzysztof
+-  Chohura Monika
+-  Gałowicz Krzysztof
 
-wykorzystane zasoby:
+Wykorzystane zasoby:
 -  FRDM-KL05
 -  macierz klawiszy 4x4
 -  głośnik
