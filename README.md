@@ -1,8 +1,10 @@
 # tmp_sekwencjoner
 
 Projekt z przedmiotu Technika Mikroprocesorowa 2
+
 Temat Projektu:
   Sekwencjoner
+  
 Projekt wykonali:
   Chohura Monika
   Gałowicz Krzysztof
