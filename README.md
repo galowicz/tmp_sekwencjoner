@@ -45,4 +45,11 @@ Diody led świecą w następujący sposób:
 
 Program obsługuje przypisanie do 12 sampli do pamięci w formacie Wav, dzwięk mono, 8-bit PCM
 
+Przypisanie klawiszy:
+  - S1-S12 - sample zapisane w pamięci
+  - S13 - start odtwarzania pętli
+  - S14 - stop odtwarzania pętli
+  - S15 - czyszczenie pętli
+  - S16 - start/stop nagrywania pętli
+
 
