@@ -8,13 +8,14 @@ Projekt wykonali:
   Gałowicz Krzysztof
 
 wykorzystane zasoby:
-  FRDM-KL05
-  macierz klawiszy 4x4
-  głośnik
-  pamięć SPI NOR FLASH EN25F80
+-  FRDM-KL05
+-  macierz klawiszy 4x4
+-  głośnik
+-  pamięć SPI NOR FLASH EN25F80
 
 Sposób połączenia:
-  klawisze:
+
+-  klawisze:
     C1 - PTB1
     C2 - PTB2
     C3 - PTB3
@@ -24,18 +25,19 @@ Sposób połączenia:
     R3 - PTA10
     R4 - PTA11
     
-  głośnik 
+-  głośnik 
     Audio_in - PTB7
     
-  Pamięć:
+-  Pamięć:
     /CS - PTA5
     DO - PTA6
     DI - PTA7
     CLK - PTB0
     
-Diody led świecą zgodnie z poniższym:
-  niebieska - nagrywana jest pętla
-  czerwona:
+Diody led świecą w następujący sposób:
+
+-  niebieska - nagrywana jest pętla
+-  czerwona:
      przy starcie - trwa inicjalizacja
      w trakcie odgrywania pętli - rozpoczęcie odgrywania od początku pętli
-  zielona - odgrywanie dzwięku
+-  zielona - odgrywanie dzwięku
