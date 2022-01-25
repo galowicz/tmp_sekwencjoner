@@ -30,3 +30,9 @@ Sposób połączenia:
     DI - PTA7
     CLK - PTB0
     
+Diody led świecą zgodnie z poniższym:
+  niebieska - nagrywana jest pętla
+  czerwona:
+     przy starcie - trwa inicjalizacja
+     w trakcie odgrywania pętli - rozpoczęcie odgrywania od początku pętli
+  zielona - odgrywanie dzwięku
